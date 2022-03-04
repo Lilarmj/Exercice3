@@ -1,0 +1,329 @@
+body{
+    background-color: #f7f7f7;
+    margin: 0;
+}
+
+header {
+    background-color: #27242b;
+}
+.nav {
+    display: flex;
+}
+
+.nav-item{
+    padding: 20% 0 0 20%;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+}
+
+.sayna {
+    width: 40%;
+    margin: 5% 0% 5% 10%;
+}
+
+.get{
+    color: #3d9f96;
+    font-size: 16px;
+    margin: 5% 0% 5% 5%;
+    text-decoration: underline;
+}
+
+a {
+    color: #3d9f96;
+}
+
+.content1 {
+    background-color: #27242b;
+    border: none;
+    width: 100%;
+    padding-top: 0;
+    margin-top: 0;
+    text-align: center;
+}
+
+.promote {
+    color: #FFFFFF;
+    padding-top: 50px;
+    margin-top: 1px;
+    font-size: 50px;
+}
+
+.new-software {
+    color: #3d9f96;
+    font-size: 20px;
+}
+
+.paragraph1 {
+    color: #FFFFFF;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
+.ordinateur {
+    display: flex;
+    margin: 50px 300px 0px 300px;
+}
+
+.button {
+    background-color: #3d9f96;
+    border: none;
+    color: #FFFFFF;
+    padding: 10px 50px 10px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.content2 {
+    background-color: #e0e0e0;
+    color: #3d9f96;
+    border: none;
+    width: 100%;
+    overflow: hidden;
+    padding-top: 0;
+    margin-top: 0;
+    text-align: center;
+}
+
+.social_icon {
+    display: flex;
+    padding: 20px;
+    margin-left: 50px;
+}
+.social_icon>img {
+    margin: 2%;
+}
+
+.paragraph2 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.content3 {
+    background-color: #f7f7f7;
+    padding: 30px 30px;
+}
+
+.check {
+    padding-top: 20px;
+    text-align: center;
+}
+
+.paragraph3 {
+    padding-top: 10px;
+    text-align: center;
+}
+
+.content4 {
+    background-image: url(Archive/assets/img/map_bg.png);
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+}
+
+.container1 {
+    padding-right: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.awesomeness1 {
+    display: block;
+}
+
+.awesomeness2 {
+    display: block;
+}
+
+.awesomeness3 {
+    display: block;
+}
+
+.awesomeness4 {
+    display: block;
+}
+
+.awesomeness5 {
+    display: block;
+}
+
+.awesomeness6 {
+    display: block;
+}
+
+#figure {
+    padding: 50px 50px 50px 50px ;
+    margin: 10px 20px 10px 20px;
+}
+
+#phone {
+    top: -250px;
+    text-align: center ;
+}
+
+.container2 {
+    padding-right: 100px;
+}
+
+.content5 {
+    background-color: #1a151f;
+    padding: 50px 50px;
+}
+
+.avatar {
+   text-align: center;
+}
+
+.paragraph4 {
+    text-align: center;
+    color: #f7f7f7;
+    padding: 20px 20px;
+}
+
+.name {
+    text-align: center;
+    color: #3d9f96;
+}
+
+.content6 {
+    background-color: #e0e0e0;
+    padding: 50px 20px 150px 20px;
+}
+
+.paragraph5 {
+    margin-top: auto;
+    margin-left: 100px;
+}
+
+.screenshot {
+    position: center;
+    display: flex;
+    width: 250px;
+    height: 300px;
+    padding: 10px;
+    margin: 30px 30px 30px 30px;
+    text-align: left;
+}
+
+figure {
+    padding: 50px;
+}
+
+figcaption {
+    top: 10px;
+    position: relative;
+    text-align: left;
+    margin-left: 0;
+}
+
+.content7 {
+    background-color: #f7f7f7;
+    padding: 50px 50px 50px;
+}
+
+#play {
+    top: -200px;
+    position: relative;
+    text-align: left;
+    padding-top: 10px;
+    margin-left: 0;
+    
+}
+
+.tested {
+    display: flex;
+    padding-bottom: 10px;
+}
+
+.laptop {
+    padding-left: 100px;
+}
+
+.litmus {
+    float: right;
+    padding-left: 200px;
+    padding-top: 200px;
+    
+}
+
+.iphone {
+    padding-left: 200px;
+    padding-bottom: 10px;
+    display: flex;
+}
+
+.phone {
+    float: right;
+    padding-top: -10px;
+    padding-left: 80px;
+}
+
+.content8 {
+    display: flex;
+    background-color: #e0e0e0;
+    padding: 10px;
+}
+
+.sayna-noir {
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 40%;
+    height: 60%;
+}
+
+.info {
+    padding: 20px;
+    width: 25%;
+    justify-content: center;
+}
+
+.contact {
+    padding: 10px;
+    width: 30%;
+    justify-content: center;
+}
+
+footer {
+    display: flex;
+    width: 100%;
+    overflow: hidden;
+}
+
+.copyright {
+    padding-left: 50px;
+}
+
+.social_icon2 {
+    display: flex;
+    float: right;
+    padding-top: 10px;
+    padding-left: 550px;
+}
+
+.social_icon_I {
+    padding-top: 10px;
+    padding-left: 50px;    
+}
+
+.social_icon_II {
+    padding-top: 10px;
+    padding-left: 30px;
+}
+
+.social_icon_III {
+    padding-top: 10px;
+    padding-left: 30px;
+}
+
+.social_icon_IV {
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-right: 0px;
+}
